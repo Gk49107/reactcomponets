@@ -17,7 +17,7 @@ export default function Caursol() {
   return (
     <Carousel autoPlay='true' interval={2000} infiniteLoop='true'>
     <div>
-        <img src="https://img.freepik.com/free-vector/yellow-diwali-banner-with-text-space_1017-33948.jpg?w=826&t=st=1686397982~exp=1686398582~hmac=fc21e9b9fe8e6141595821a964614d9482aa6fe7a03d303f1c329d3ad41446fe" />
+        <img src="1" alt='image' />
         
     </div>
 
