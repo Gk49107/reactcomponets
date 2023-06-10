@@ -7,6 +7,9 @@ git branch -M main
 git remote add origin https://github.com/Gk49107/reactcomponets.git
 git push -u origin main
 
+//package json
+"react-responsive-carousel": "^3.2.23"
+
 //code for carousal
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
